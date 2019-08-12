@@ -1,4 +1,9 @@
-Updating the remote repository or sync-ing it with the local version consists of three steps:
+1, clone a repository to current location:
+	git clone <repository_URL_SHH>
+
+2, Updating the remote repository or sync-ing it with the local version consists of three steps:
+check status of git repository:
+	git status
 Staging the changes.
 	git add python_code.py
 Committing them.
@@ -6,5 +11,5 @@ Committing them.
 Pushing them to the remote repository.
 	git push
 
-check status of git repository:
-	git status
+3, fetch and download content from a remote repository and immediately update the local repository to match that content.
+	git pull
