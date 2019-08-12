@@ -13,3 +13,6 @@ Pushing them to the remote repository.
 
 3, fetch and download content from a remote repository and immediately update the local repository to match that content.
 	git pull
+
+4, how to set up SSH and other basic git operation
+url: https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-mac-version-3a8047b899e5
