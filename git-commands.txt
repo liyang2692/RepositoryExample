@@ -1,0 +1,10 @@
+Updating the remote repository or sync-ing it with the local version consists of three steps:
+Staging the changes.
+	git add python_code.py
+Committing them.
+	git commit -m <message>
+Pushing them to the remote repository.
+	git push
+
+check status of git repository:
+	git status
